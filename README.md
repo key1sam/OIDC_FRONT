@@ -1,15 +1,16 @@
 # OIDC_FRONT
 
-## 1. Repo에 대한 설명
+### 1. Repo에 대한 설명
     이 Repo는 제 4회 OIDC에 참가한 '정통' 팀의 "MigHelper Service"의 FRONT-END 부분으로서 REACT.JS를 기반으로 하고 있다. 
     제공하는 기능으로는 Migration Helper, Server Create Helper, Server Dashboard, Security Dashboard의 웹 페이지를 구성하고 있으며, 이를 Django 기반의 "NBP_back" 레지지토리와 연동하여 사용한다.
     
 ### 1-1 프로젝트 진행기간
+
 ![image](https://user-images.githubusercontent.com/87827050/214664775-c78edb6c-a604-4963-96e9-86cf4db6c37e.png)
 
-### 아키텍처 구조
-![image](https://user-images.githubusercontent.com/87827050/214665476-a02fe7b1-954f-4163-8d8b-7bc8f2a49888.png)
+### 1-2 아키텍처 구조
 
+![image](https://user-images.githubusercontent.com/87827050/214665476-a02fe7b1-954f-4163-8d8b-7bc8f2a49888.png)
 
 ### 2. 웹 페이지 디자인 오픈소스
     https://startbootstrap.com/template/sb-admin
